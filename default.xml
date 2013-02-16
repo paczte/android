@@ -32,7 +32,7 @@
   <project path="hardware/qcom/gps" name="androidarmv6/android_hardware_qcom_gps" />  
   <project path="hardware/qcom/media_legacy" name="androidarmv6/android_hardware_qcom_media_legacy" />
   <project path="packages/apps/Camera" name="androidarmv6/android_packages_apps_Camera" />
-  <project path="packages/inputmethods/PinyinIME" name="androidarmv6/android_packages_inputmethods_PinyinIME" />
+  <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
   <project path="system/netd" name="androidarmv6/android_system_netd" />
   <project path="vendor/cm" name="androidarmv6/android_vendor_cm" />
   <project path="vendor/qcom/msm7x27" name="androidarmv6/android_vendor_qcom_msm7x27" />
@@ -307,8 +307,8 @@
   <project path="packages/apps/VideoEditor" name="CyanogenMod/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
+  <project path="packages/inputmethods/PinyinIME" name="androidarmv6/android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" />
