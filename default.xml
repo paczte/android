@@ -21,7 +21,8 @@
   <project path="build" name="androidarmv6/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="external/libncurses" name="androidamrv6/android_external_libncurses" />
+  <project path="device/qcom/msm7x27" name="androidarmv6/android_device_qcom_msm7x27" />
+  <project path="external/libncurses" name="androidarmv6/android_external_libncurses" />
   <project path="external/wpa_supplicant_8" name="androidarmv6/android_external_wpa_supplicant_8" />
   <project path="frameworks/av" name="androidarmv6/android_frameworks_av" />
   <project path="frameworks/native" name="androidarmv6/android_frameworks_native" />
@@ -34,6 +35,7 @@
   <project path="packages/inputmethods/PinyinIME" name="androidarmv6/android_packages_inputmethods_PinyinIME" />
   <project path="system/netd" name="androidarmv6/android_system_netd" />
   <project path="vendor/cm" name="androidarmv6/android_vendor_cm" />
+  <project path="vendor/qcom/msm7x27" name="androidarmv6/android_vendor_qcom_msm7x27" />
 
 
   <!-- CM -->
@@ -389,6 +391,6 @@
 
   <!-- paczte -->
   <project path="android" name="paczte/android" />
-  <project path="vendor/pac" name="PAC-man/android_vendor_pac" />
+  <project path="vendor/pac" name="paczte/android_vendor_pac" />
 
 </manifest>
