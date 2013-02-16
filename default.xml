@@ -391,6 +391,6 @@
 
   <!-- paczte -->
   <project path="android" name="paczte/android" />
-  <project path="vendor/pac" name="paczte/android_vendor_pac" />
+  <project path="vendor/pac" name="PAC-man/android_vendor_pac" />
 
 </manifest>
